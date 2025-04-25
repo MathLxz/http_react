@@ -1,0 +1,2 @@
+# Requisições HTTP com React
+Projeto feito usando React e Vite como parte do curso de React do Hora de Codar, com o objetivo de aprofundar os conhecimentos em react forms e useState hook, custom hooks, utilizando JSON Server para simular um backend e realizar requisições HTTP com verbos GET e POST, além de tratar possíveis erros.

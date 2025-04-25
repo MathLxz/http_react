@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "name": "capa de chuva",
+      "price": "50.50",
+      "id": "5"
+    },
+    {
+      "name": "teclado",
+      "price": "110",
+      "id": "6"
+    },
+    {
+      "name": "cadeira",
+      "price": "200",
+      "id": "7"
+    },
+    {
+      "name": "mouse",
+      "price": "60",
+      "id": "8"
+    },
+    {
+      "name": "suporte monitor",
+      "price": "120",
+      "id": "9"
+    },
+    {
+      "name": "cabo hdmi",
+      "price": "10",
+      "id": "11"
+    },
+    {
+      "name": "suporte microfone",
+      "price": "60",
+      "id": "12"
+    },
+    {
+      "name": "suporte microfone 2",
+      "price": "70",
+      "id": "14"
+    },
+    {
+      "name": "suporte microfone 3",
+      "price": "75",
+      "id": "15"
+    },
+    {
+      "id": "cec0",
+      "name": "prod 1",
+      "price": "123"
+    },
+    {
+      "id": "af61",
+      "name": "prod 2",
+      "price": "124"
+    },
+    {
+      "id": "78b5",
+      "name": "prod 3",
+      "price": "125"
+    },
+    {
+      "id": "7aa5",
+      "name": "prod 4",
+      "price": "126"
+    },
+    {
+      "id": "85db",
+      "name": "pro 5",
+      "price": "127"
+    },
+    {
+      "id": "7d1e",
+      "name": "prod 6",
+      "price": "128"
+    },
+    {
+      "id": "8598",
+      "name": "prod 7",
+      "price": "129"
+    },
+    {
+      "id": "b450",
+      "name": "prod 8",
+      "price": "130"
+    }
+  ]
+}
