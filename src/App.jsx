@@ -12,7 +12,7 @@ function App() {
   const [name, setName] = useState('');
   const [price, setPrice] = useState('');
 
-  const { data: items, httpConfig, loading, error } = useFetech(url);
+  const { data: items, httpConfig, loading, error } = useFetch(url);
 
   // useEffect(() => {
   //   async function getData() {
